@@ -1,0 +1,50 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    
+}
+.textotitulo {
+    color: rgb(175, 0, 0);
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu {
+    display: flex;
+    justify-content:space-around;
+    font-size: 50px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+body {
+    background-color: orange;
+}
+a:hover {
+    color: rgb(2, 0, 141);
+    font-size: 70px;
+}
+.contenido {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    
+}
+.sec_uno {
+    background-color: rgb(131, 92, 34);
+    width: 500px;
+    height: 300px;
+    border:  5px solid;
+}
+.sec_dos {
+    background-color: rgb(143, 57, 31);
+    width: 500px;
+    height: 300px;
+    border:  5px solid;
+}

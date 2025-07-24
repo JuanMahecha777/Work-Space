@@ -1,0 +1,32 @@
+.regla {
+    display: inline-block;
+    width: 30%;
+    height: 20%;
+
+}
+body {
+    background-color: rgb(10, 148, 10);
+    border: 5px transparent yellowgreen;
+}
+h1 {
+    background-color: rgb(221, 221, 38);
+    width: 500px;
+    
+}
+.objetivo {
+    background-color: rgb(150, 150, 150);
+    border-left: solid rgb(221, 221, 38);
+   
+}
+.regla {
+    background-color: rgb(151, 149, 149);
+    border-left: solid rgb(221, 221, 38);
+}
+h2 {
+    background-color: rgb(221, 221, 38);
+    width: 250px;
+}
+h3 {
+    background-color: rgb(221, 221, 38);
+    width: 250px;
+}

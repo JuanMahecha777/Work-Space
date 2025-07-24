@@ -1,0 +1,38 @@
+#alegria {
+    background-color: yellow;
+}
+#Ira {
+    background-color: red;
+}
+#tristeza {
+    background-color: blue;
+}
+#verguenza {
+    background-color: magenta;
+}
+#envidia {
+    background-color: aqua;
+}
+#ansiedad {
+    background-color: orangered;
+}
+#temor {
+    background-color: rgb(133, 73, 130);
+}
+#desagrado {
+    background-color: green;
+}
+#aburrimiento {
+    background-color: gray;
+}
+table {
+    border: 2px solid;
+    width: 300px;
+    height: 300px;
+    table-layout:fixed;
+    border-collapse: collapse;
+}
+tr td {
+overflow: hidden;
+text-align: center;
+}

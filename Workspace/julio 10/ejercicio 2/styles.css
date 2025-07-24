@@ -1,0 +1,12 @@
+.contacto{
+    display: inline-block;
+    width: 30%;
+}
+
+div .nombre{
+    color: brown;
+}
+
+.nombre{
+    color: chocolate;
+}

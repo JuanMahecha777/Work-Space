@@ -1,0 +1,65 @@
+
+.titulo{
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    width: 200px;
+}
+
+.textotitulo{
+    color: rgb(126, 54, 20);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
+}
+
+.menu{
+    font-size: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(209, 140, 56);
+    border: 2px, solid, black;
+
+}
+body{
+    background-color: rgba(209, 140, 56, 0.74);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a:hover{
+    color: rgb(255, 0, 0);
+    font-size: 55px;
+}
+
+.contenido{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+
+}
+
+.sec_uno{
+    background-color: rgb(255, 115, 1);
+    width: 500px;
+    height: 300px;
+    border: 2px, solid, black;
+
+}
+
+.sec_dos{
+
+    background-color: rgb(238, 255, 1);
+    width: 500px;
+    height: 300px;
+    border: 2px, solid, black;
+
+}
+
+

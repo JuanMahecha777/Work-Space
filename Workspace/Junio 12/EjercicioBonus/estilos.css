@@ -1,0 +1,17 @@
+.uno {
+    background-color: rgb(218, 199, 29);
+display: inline-block;
+width: 25%;
+height: 20%;
+border: 3px solid;
+}
+.dos {
+    background-color: rgb(51, 109, 196);
+    display: inline-block;
+    width: 25%;
+    height: 20%;
+    border: 3px solid;
+}
+body {
+    background-color: brown;
+}

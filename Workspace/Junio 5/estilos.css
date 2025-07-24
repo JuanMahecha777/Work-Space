@@ -1,0 +1,10 @@
+body {
+    background-color: #29a183
+}
+td {
+  width: 25px;
+  height: 25px;
+}
+table {
+    padding: 10px;
+}
